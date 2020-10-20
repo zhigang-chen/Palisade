@@ -173,8 +173,8 @@
 
 ## 感谢我们的贡献者
 #### 在https://palisade-crypto.org/community/ 上有贡献或使用过PALISADE的组织和赞助PALISADE开发的组织的最新列表。
-Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成员和社区开发人员的最新列表。
-
+[Contributors wiki article.][43]提供了为PALISADE贡献代码或算法的核心成员和社区开发人员的最新列表。
+[43]:https://gitlab.com/palisade/palisade-development/-/wikis/palisade-contributors
 <br>
 <br>
 
