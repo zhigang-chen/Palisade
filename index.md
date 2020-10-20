@@ -1,5 +1,5 @@
 # 欢迎访问Palisade 的Wiki（维基百科）
-
+<font face="宋体" >
 #### 本页面由陈智罡博士负责翻译更新维护
 
 #### Palisade是一个开源项目。 我们很荣幸的宣布，我们正在接受NumFOCUS.org（专注于开源数据科学软件的非营利基金会）资助。 请参阅我们的PALISADE管理文档，以获取各个PALISADE团队及 其职责的列表。 另请参阅我们制定的行为准则，以了解我们的贡献者和维护者的责任。
@@ -199,3 +199,5 @@ Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成�
 ## 经常问的问题
 #### 请参阅“ PALISADE[常见问题解答][30]”页面，以获取常见问题和解决方案的列表。
 [30]: https://gitlab.com/palisade/palisade-development/-/wikis/Frequently-Asked-Questions
+
+</font>
