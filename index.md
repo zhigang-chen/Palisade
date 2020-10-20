@@ -1,7 +1,8 @@
-# 欢迎访问Palisade 的Wiki（维基百科）
+# 欢迎访问Palisade 的中文Wiki（维基百科）
 
 	
-#### 本页面由陈智罡博士负责翻译更新维护
+#### 本页面由陈智罡博士负责翻译更新维护，英文页面请访问[这里][50]。
+[50]:https://gitlab.com/palisade/palisade-development/-/wikis/home
 
 #### Palisade是一个开源项目。 我们很荣幸的宣布，我们正在接受[NumFOCUS.org][32]（专注于开源数据科学软件的非营利基金会）资助。 请参阅我们的[PALISADE][33]管理文档，以获取各个PALISADE团队及 其职责的列表。 另请参阅我们制定的[行为准则][34]，以了解我们的贡献者和维护者的责任。
 [32]: https://numfocus.org/
@@ -19,7 +20,7 @@
 <br>
 <br>
 
-## PALISADE介绍
+**PALISADE介绍**
 
 
 ### PALISADE是一个通用的格密码库，目前包含以下格密码算法的有效实现：
@@ -186,7 +187,8 @@
 
 #### [查看代码请点击这里][31]
 [31]:PALISADE_example.txt
-
+<br>
+<br>
 
 ## 经常问的问题
 #### 请参阅“ PALISADE[常见问题解答][30]”页面，以获取常见问题和解决方案的列表。
