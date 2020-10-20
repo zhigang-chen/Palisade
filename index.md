@@ -54,7 +54,7 @@
 #### PALISADE有效实现了的余数系统（RNS）算法，从而大幅提高BGV，BFV和CKKS等方案的性能。PALISADE库被用作全基因组关联研究（GWAS）解决方案的库，在iDASH'18比赛上获奖。
 
 #### 默认情况下，该库的构建没有外部依赖关系。但是如果需要，可以为用户提供添加GMP / NTL和/或tcmalloc（线程敏感内存分配）第三方库的选项。
----
+
 
 <br>
 <br>
@@ -107,7 +107,7 @@
 #### 5.门限全同态加密： 
 #### 　(1)[BGV，BFV和CKKS的代码示例][10]
 [10]: https://gitlab.com/palisade/palisade-development/blob/master/src/pke/examples/threshold-fhe.cpp
----
+
 
 <br>
 <br>
@@ -134,7 +134,7 @@
 [18]:https://gitlab.com/palisade/palisade-development/blob/master/src/core/include/math/README.md
 #### 9.[Discrete Gaussian Sampling implemented in PALISADE（PALISADE中的离散高斯取样实现）][19]在src/core/include/math目下
 [19]:https://gitlab.com/palisade/palisade-development/blob/master/src/core/include/math/SAMPLING_README.md
----
+
 <br>
 <br>
 
@@ -155,7 +155,7 @@
 [25]:https://gitlab.com/palisade/palisade-development/-/wikis/Frequently-Asked-Questions
 #### 7.[How To Rebase a Feature Branch from the Master Branch][26]（如何从主分支建立一个功能分支）
 [26]:https://gitlab.com/palisade/palisade-development/-/wikis/How-to-rebase-your-branch-from-the-master-branch
----
+
 <br>
 <br>
 
@@ -167,7 +167,7 @@
 #### 　·如果您计划对PALISADE进行重大修改，请先与我们联系，因为PALISADE正在开发中。这样，您可以确保添加的内容与计划的PALISADE版本保持一致。它还将确保您所做的更改基于开发库的#### 最新版本。
 #### 　·[PALISADE][28]发行版本的所有新增内容均需获得PALISADE治理团队的批准，具体见PALISADE管理文档中的规定。
 [28]:https://gitlab.com/palisade/palisade-development/blob/master/Governance.md
----
+
 <br>
 <br>
 
@@ -177,7 +177,7 @@
 #### PALISADE库使用BSD-2条款许可，这使公司和其他组织更容易使用该软件并将其集成到产品中，而不必担心受到许可问题的阻碍。
 #### 　·[可以在此处查看PALISADE许可证。][29]
 [29]: https://gitlab.com/palisade/palisade-development/blob/master/License.md
----
+
 <br>
 <br>
 
@@ -186,7 +186,7 @@
 #### 在https://palisade-crypto.org/community/ 上有贡献或使用过PALISADE的组织和赞助PALISADE开发的组织的最新列表。
 #### [Contributors wiki article.][43]提供了为PALISADE贡献代码或算法的核心成员和社区开发人员的最新列表。
 [43]:https://gitlab.com/palisade/palisade-development/-/wikis/palisade-contributors
----
+
 <br>
 <br>
 
@@ -199,7 +199,7 @@
 
 #### [查看代码请点击这里][31]
 [31]:PALISADE_example.txt
----
+
 <br>
 <br>
 
