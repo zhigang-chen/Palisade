@@ -186,18 +186,13 @@ Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成�
 
 #### 要在学术论文中引用PALISADE，请使用以下BibTeX条目。如果使用其他（旧）版本，请使用https://gitlab.com/palisade/palisade-development/blob/master/Release_Notes.md 中的日期去 更新发行版本和月份/年份。
 
-<table border="0">
-<tr>
-<td width="75%">
-<h3>@misc{PALISADE,</h3>
-	<h3>title = {{PALISADE} {L}attice {C}ryptography {L}ibrary (release 1.10.4)},</h3>
-	<h3>howpublished =  {\url{https://palisade-crypto.org/}},</h3>
-	<h3>month = Sep, </h3>  
-	<h3>year = 2020,</h3>
-	<h3>}</h3>
-</td>
-</tr>
-</table>
+'''
+	title = {{PALISADE} {L}attice {C}ryptography {L}ibrary (release 1.10.4)},
+	howpublished =  {\url{https://palisade-crypto.org/}},
+	month = Sep,   
+	year = 2020,
+	}
+'''
 
 
 ## 经常问的问题
