@@ -196,11 +196,6 @@ Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成�
 
 
 
-<br>
-</br>
-<br>
-</br>
-
 ## 经常问的问题
 #### 请参阅“ PALISADE[常见问题解答][30]”页面，以获取常见问题和解决方案的列表。
 [30]: https://gitlab.com/palisade/palisade-development/-/wikis/Frequently-Asked-Questions
