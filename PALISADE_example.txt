@@ -1,0 +1,6 @@
+@misc{PALISADE,    
+	title = {{PALISADE} {L}attice {C}ryptography {L}ibrary (release 1.10.4)},    
+	howpublished =  {\url{https://palisade-crypto.org/}},    
+	month = Sep,    
+	year = 2020,
+}
