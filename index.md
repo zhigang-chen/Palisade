@@ -15,8 +15,6 @@
 
 <br>
 
-
-
 ## PALISADE介绍
 
 
@@ -52,8 +50,6 @@
 #### 默认情况下，该库的构建没有外部依赖关系。但是如果需要，可以为用户提供添加GMP / NTL和/或tcmalloc（线程敏感内存分配）第三方库的选项。
 
 <br>
-
-</br>
 
 
 ## PALISADE入门
@@ -98,8 +94,6 @@
 
 <br>
 
-</br>
-
 
 ## 更多文档
 ### 对PALISADE目录中的文件和README.md文件的说明：
@@ -124,8 +118,6 @@
 
 <br>
 
-</br>
-
 
 ### 在doc/wiki目录下的Wiki页面 
 #### 1.This [Home page][20] （首页）
@@ -145,8 +137,6 @@
 
 <br>
 
-</br>
-
 
 ## 修改和改进PALISADE
 
@@ -158,8 +148,6 @@
 
 <br>
 
-</br>
-
 
 ## 许可证信息
 
@@ -169,16 +157,12 @@
 
 <br>
 
-</br>
-
 
 ## 感谢我们的贡献者
 #### 在https://palisade-crypto.org/community/ 上有贡献或使用过PALISADE的组织和赞助PALISADE开发的组织的最新列表。
 Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成员和社区开发人员的最新列表。
 
 <br>
-
-</br>
 
 
 ## 如何引用PALISADE
