@@ -59,14 +59,22 @@
 ## PALISADE入门
 
 #### 为了熟悉PALISADE，我们建议您阅读以下Wiki文章：
-#### 1.安装方法（不依赖于操作系统）
-#### 　(1)在Linux上安装PALISADE 
-#### 　(2)在Windows上安装PALISADE  
-#### 　(3)在macOS上安装PALISADE 
-#### 　(4)使用CMake/make自定义安装
-#### 2.在PALISADE库上建立C++项目的方法 
-#### 3.介绍PALISADE库的目录结构 
-#### 4.使用PALISADE库 
+#### 1.[安装方法（不依赖于操作系统）][35]
+[35]:https://gitlab.com/palisade/palisade-development/-/wikis/Build-instructions
+#### 　(1)[在Linux上安装PALISADE][36] 
+[36]:https://gitlab.com/palisade/palisade-development/-/wikis/Instructions-for-building-PALISADE-in-Linux
+#### 　(2)[在Windows上安装PALISADE][37]
+[37]:https://gitlab.com/palisade/palisade-development/-/wikis/Instructions-for-building-PALISADE-in-Windows
+#### 　(3)[在macOS上安装PALISADE][38]
+[38]:https://gitlab.com/palisade/palisade-development/-/wikis/Instructions-for-building-PALISADE-in-macOS
+#### 　(4)[使用CMake/make自定义安装][39]
+[39]:https://gitlab.com/palisade/palisade-development/-/wikis/Use-of-CMake-in-PALISADE
+#### 2.[在PALISADE库上建立C++项目的方法][40] 
+[40] :https://gitlab.com/palisade/palisade-development/-/wikis/Instructions-for-building-user-projects-that-use-PALISADE
+#### 3.[介绍PALISADE库的目录结构][41] 
+[41]:https://gitlab.com/palisade/palisade-development/-/wikis/Library-Directory-Structure
+#### 4.[使用PALISADE库][42] 
+[42]: https://gitlab.com/palisade/palisade-development/-/wikis/Use-The-Library
 
 #### 为了熟悉PALISADE的主要API，我们建议您查看以下示例的代码：
 #### 1.用于整数运算（BFV）的全同态加密：
