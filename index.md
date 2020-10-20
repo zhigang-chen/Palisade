@@ -15,8 +15,6 @@
 
 <br>
 </br>
-<br>
-</br>
 
 ## PALISADE介绍
 
@@ -54,8 +52,7 @@
 
 <br>
 </br>
-<br>
-</br>
+
 
 ## PALISADE入门
 
@@ -99,8 +96,7 @@
 
 <br>
 </br>
-<br>
-</br>
+
 
 ## 更多文档
 ### 对PALISADE目录中的文件和README.md文件的说明：
@@ -125,8 +121,7 @@
 
 <br>
 </br>
-<br>
-</br>
+
 
 ### 在doc/wiki目录下的Wiki页面 
 #### 1.This [Home page][20] （首页）
@@ -146,8 +141,7 @@
 
 <br>
 </br>
-<br>
-</br>
+
 
 ## 修改和改进PALISADE
 
@@ -159,8 +153,7 @@
 
 <br>
 </br>
-<br>
-</br>
+
 
 ## 许可证信息
 
@@ -170,8 +163,7 @@
 
 <br>
 </br>
-<br>
-</br>
+
 
 ## 感谢我们的贡献者
 #### 在https://palisade-crypto.org/community/ 上有贡献或使用过PALISADE的组织和赞助PALISADE开发的组织的最新列表。
@@ -179,8 +171,7 @@ Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成�
 
 <br>
 </br>
-<br>
-</br>
+
 
 ## 如何引用PALISADE
 
