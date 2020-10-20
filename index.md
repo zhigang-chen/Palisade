@@ -14,6 +14,7 @@
 #### 　　　　o Dave Cousins：  dcousins@njit.edu, dcousins@dualitytech.com
 
 <br>
+
 </br>
 
 ## PALISADE介绍
@@ -51,6 +52,7 @@
 #### 默认情况下，该库的构建没有外部依赖关系。但是如果需要，可以为用户提供添加GMP / NTL和/或tcmalloc（线程敏感内存分配）第三方库的选项。
 
 <br>
+
 </br>
 
 
@@ -95,6 +97,7 @@
 
 
 <br>
+
 </br>
 
 
@@ -120,6 +123,7 @@
 [19]:https://gitlab.com/palisade/palisade-development/blob/master/src/core/include/math/SAMPLING_README.md
 
 <br>
+
 </br>
 
 
@@ -140,6 +144,7 @@
 [26]:https://gitlab.com/palisade/palisade-development/-/wikis/How-to-rebase-your-branch-from-the-master-branch
 
 <br>
+
 </br>
 
 
@@ -152,6 +157,7 @@
 [28]:https://gitlab.com/palisade/palisade-development/blob/master/Governance.md
 
 <br>
+
 </br>
 
 
@@ -162,6 +168,7 @@
 [29]: https://gitlab.com/palisade/palisade-development/blob/master/License.md
 
 <br>
+
 </br>
 
 
@@ -170,6 +177,7 @@
 Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成员和社区开发人员的最新列表。
 
 <br>
+
 </br>
 
 
