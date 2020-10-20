@@ -1,5 +1,5 @@
 # 欢迎访问Palisade 的Wiki（维基百科）
-<font face="宋体" size=6 color=#FF0000>
+<font face="宋体">
 	
 #### 本页面由陈智罡博士负责翻译更新维护
 
