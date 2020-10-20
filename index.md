@@ -11,11 +11,12 @@
 #### 　　　　o Kurt Rohloff ：  krohloff@dualitytech.com, rohloff@njit.edu 
 #### 　　　　o Yuriy Polyakov： ypolyakov@dualitytech.com 
 #### 　　　　o Dave Cousins：  dcousins@njit.edu, dcousins@dualitytech.com
-  
-  
-  
-  
-  
+
+<br>
+</br>
+<br>
+</br>
+
 ## PALISADE介绍
 
 
@@ -50,7 +51,10 @@
 
 #### 默认情况下，该库的构建没有外部依赖关系。但是如果需要，可以为用户提供添加GMP / NTL和/或tcmalloc（线程敏感内存分配）第三方库的选项。
 
-
+<br>
+</br>
+<br>
+</br>
 
 ## PALISADE入门
 
@@ -91,6 +95,12 @@
 #### 　(1)[BGV，BFV和CKKS的代码示例][10]
 [10]: https://gitlab.com/palisade/palisade-development/blob/master/src/pke/examples/threshold-fhe.cpp
 
+
+<br>
+</br>
+<br>
+</br>
+
 ## 更多文档
 ### 对PALISADE目录中的文件和README.md文件的说明：
 #### 1.[PALISADE User Manual（PALISADE使用手册）][11] 包含有关PALISADE库以及如何在应用程序中使用它的详细说明
@@ -111,6 +121,12 @@
 [18]:https://gitlab.com/palisade/palisade-development/blob/master/src/core/include/math/README.md
 #### 9.[Discrete Gaussian Sampling implemented in PALISADE（PALISADE中的离散高斯取样实现）][19]在src/core/include/math目下
 [19]:https://gitlab.com/palisade/palisade-development/blob/master/src/core/include/math/SAMPLING_README.md
+
+<br>
+</br>
+<br>
+</br>
+
 ### 在doc/wiki目录下的Wiki页面 
 #### 1.This [Home page][20] （首页）
 [20]:https://gitlab.com/palisade/palisade-development/-/wikis/Home
@@ -127,6 +143,11 @@
 #### 7.[How To Rebase a Feature Branch from the Master Branch][26]（如何从主分支建立一个功能分支）
 [26]:https://gitlab.com/palisade/palisade-development/-/wikis/How-to-rebase-your-branch-from-the-master-branch
 
+<br>
+</br>
+<br>
+</br>
+
 ## 修改和改进PALISADE
 
 #### 我们鼓励您对PALISADE进行修改和改进。请参阅Contributing.md文件，以了解有关遵循我们的主要和次要贡献过程的详细信息，以及有关我们编程风格要求的讨论。[Contributing.md][27]。
@@ -134,21 +155,52 @@
 #### 　·如果您计划对PALISADE进行重大修改，请先与我们联系，因为PALISADE正在开发中。这样，您可以确保添加的内容与计划的PALISADE版本保持一致。它还将确保您所做的更改基于开发库的#### 最新版本。
 #### 　·[PALISADE][28]发行版本的所有新增内容均需获得PALISADE治理团队的批准，具体见PALISADE管理文档中的规定。
 [28]:https://gitlab.com/palisade/palisade-development/blob/master/Governance.md
+
+<br>
+</br>
+<br>
+</br>
+
 ## 许可证信息
 
 #### PALISADE库使用BSD-2条款许可，这使公司和其他组织更容易使用该软件并将其集成到产品中，而不必担心受到许可问题的阻碍。
 #### 　·[可以在此处查看PALISADE许可证。][29]
 [29]: https://gitlab.com/palisade/palisade-development/blob/master/License.md
+
+<br>
+</br>
+<br>
+</br>
+
 ## 感谢我们的贡献者
 #### 在https://palisade-crypto.org/community/ 上有贡献或使用过PALISADE的组织和赞助PALISADE开发的组织的最新列表。
 Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成员和社区开发人员的最新列表。
 
+<br>
+</br>
+<br>
+</br>
 
 ## 如何引用PALISADE
 
 #### 要在学术论文中引用PALISADE，请使用以下BibTeX条目。如果使用其他（旧）版本，请使用https://gitlab.com/palisade/palisade-development/blob/master/Release_Notes.md 中的日期去 更新发行版本和月份/年份。
 <img src="Palisade_use.png" width="50%">
 
+<br>
+@misc{PALISADE,    
+	title = {{PALISADE} {L}attice {C}ryptography {L}ibrary (release 1.10.4)},    
+	howpublished =  {\url{https://palisade-crypto.org/}},    
+	month = Sep,    
+	year = 2020,
+}
+</br>
+
+
+
+<br>
+</br>
+<br>
+</br>
 
 ## 经常问的问题
 #### 请参阅“ PALISADE[常见问题解答][30]”页面，以获取常见问题和解决方案的列表。
