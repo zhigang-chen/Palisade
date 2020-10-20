@@ -11,8 +11,11 @@
 #### 　　　　o Kurt Rohloff ：  krohloff@dualitytech.com, rohloff@njit.edu 
 #### 　　　　o Yuriy Polyakov： ypolyakov@dualitytech.com 
 #### 　　　　o Dave Cousins：  dcousins@njit.edu, dcousins@dualitytech.com
-
-
+  
+  
+  
+  
+  
 ## PALISADE介绍
 
 
@@ -46,6 +49,7 @@
 #### PALISADE有效实现了的余数系统（RNS）算法，从而大幅提高BGV，BFV和CKKS等方案的性能。PALISADE库被用作全基因组关联研究（GWAS）解决方案的库，在iDASH'18比赛上获奖。
 
 #### 默认情况下，该库的构建没有外部依赖关系。但是如果需要，可以为用户提供添加GMP / NTL和/或tcmalloc（线程敏感内存分配）第三方库的选项。
+
 
 
 ## PALISADE入门
