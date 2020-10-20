@@ -188,7 +188,7 @@ Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成�
 
 <img src="Palisade_use.png" width="50%"> 
 #### [查看代码请点击这里][31]
-[31]:PALISADE_example.txt
+[31]: PALISADE_example.txt
 
 ## 经常问的问题
 #### 请参阅“ PALISADE[常见问题解答][30]”页面，以获取常见问题和解决方案的列表。
