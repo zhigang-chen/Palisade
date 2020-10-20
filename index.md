@@ -69,6 +69,7 @@
 [38]:https://gitlab.com/palisade/palisade-development/-/wikis/Instructions-for-building-PALISADE-in-macOS
 #### 　(4)[使用CMake/make自定义安装][39]
 [39]:https://gitlab.com/palisade/palisade-development/-/wikis/Use-of-CMake-in-PALISADE
+
 #### 2.[在PALISADE库上建立C++项目的方法][40] 
 [40] :https://gitlab.com/palisade/palisade-development/-/wikis/Instructions-for-building-user-projects-that-use-PALISADE
 #### 3.[介绍PALISADE库的目录结构][41] 
