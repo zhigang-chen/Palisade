@@ -1,5 +1,5 @@
 # 欢迎访问Palisade 的Wiki（维基百科）
-<font face="宋体">
+
 	
 #### 本页面由陈智罡博士负责翻译更新维护
 
@@ -196,4 +196,4 @@ Contributors wiki article.提供了为PALISADE贡献代码或算法的核心成�
 #### 请参阅“ PALISADE[常见问题解答][30]”页面，以获取常见问题和解决方案的列表。
 [30]: https://gitlab.com/palisade/palisade-development/-/wikis/Frequently-Asked-Questions
 
-</font>
+
